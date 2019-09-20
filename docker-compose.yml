@@ -1,0 +1,7 @@
+version: '3'
+services:
+     borrower-service:
+        image: borrower-service:latest
+        container_name: "borrower-service"
+        ports:
+         - "8081:8081"          

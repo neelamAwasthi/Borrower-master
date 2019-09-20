@@ -1,0 +1,4 @@
+FROM openjdk:10-jre-slim
+EXPOSE 8081
+ADD /target/borrower-service.jar borrower-service.jar
+ENTRYPOINT ["java", "-jar", "borrower-service.jar"]
