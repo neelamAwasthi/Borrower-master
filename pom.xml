@@ -17,7 +17,7 @@
 		<commons-lang.version>3.6</commons-lang.version>
 		<db-setup.version>2.1.0</db-setup.version>
 		<guava-testlib.version>23.0</guava-testlib.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mockito-core.version>2.17.0</mockito-core.version>
 		<serenity-maven-plugin.version>1.6.3</serenity-maven-plugin.version>
 		<serenity-spring.version>1.6.3</serenity-spring.version>
